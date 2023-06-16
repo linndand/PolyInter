@@ -1,0 +1,15 @@
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.csproj.AssemblyReference.cache
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.AssemblyInfoInputs.cache
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.AssemblyInfo.cs
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.csproj.CoreCompileInputs.cache
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.exe
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.deps.json
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.runtimeconfig.json
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.dll
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.pdb
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.dll
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\refint\PolyInter.dll
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.pdb
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.genruntimeconfig.cache
+D:\UAY\smt02\Pemrograman\PolyInter\PolyInter\obj\Debug\net6.0\ref\PolyInter.dll
